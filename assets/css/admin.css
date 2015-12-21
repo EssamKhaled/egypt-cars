@@ -1,0 +1,9 @@
+.admin-bg{
+    background-color: #E6E6E6;
+}
+input[type="text"] {
+    height: 33px!important;
+}
+header.top-head{
+    z-index: 1;
+}
